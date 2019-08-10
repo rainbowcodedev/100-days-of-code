@@ -17,3 +17,12 @@
 **Thoughts:** I really wish I had more free time to work on coding projects. I think making a steady habit for 100 days is certainly moving in the right direction.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 2: August 10, 2019
+#####
+
+**Today's Progress**: I'm now halfway through the Applied Visual Design section on freeCodeCamp. The additional color theory knowledge is pretty interesting.
+
+**Thoughts:** I'm enjoying seeing my contributions fill in each day, both on GitHub and on freeCodeCamp. It's a great motivator!
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
