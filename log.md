@@ -8,3 +8,12 @@
 **Thoughts:** Reviewing the very basics is never a bad idea. I've discovered that repetition is key to learning and retaining information!
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 1: August 9, 2019
+#####
+
+**Today's Progress**: Worked through some CSS on freeCodeCamp today. Can't wait to get more done!
+
+**Thoughts:** I really wish I had more free time to work on coding projects. I think making a steady habit for 100 days is certainly moving in the right direction.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
