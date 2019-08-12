@@ -26,3 +26,12 @@
 **Thoughts:** I'm enjoying seeing my contributions fill in each day, both on GitHub and on freeCodeCamp. It's a great motivator!
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 3: August 11, 2019
+#####
+
+**Today's Progress**: Completed the Applied Visual Design section on freeCodeCamp today and learned a whole lot about amazing ways to animate using just CSS. Mind officially blown!
+
+**Thoughts:** Code is incredible and so fascinating. I'm glad to be picking up new knowledge each day I work on this.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
