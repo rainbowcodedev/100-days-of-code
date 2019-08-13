@@ -35,3 +35,12 @@
 **Thoughts:** Code is incredible and so fascinating. I'm glad to be picking up new knowledge each day I work on this.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 4: August 12, 2019
+#####
+
+**Today's Progress**: Completed the Applied Accessibility section on freeCodeCamp today!
+
+**Thoughts:** There is so much that I didn't already know and didn't take into consideration regarding accessibility. This particular topic has really opened my eyes.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
