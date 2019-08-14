@@ -44,3 +44,13 @@
 **Thoughts:** There is so much that I didn't already know and didn't take into consideration regarding accessibility. This particular topic has really opened my eyes.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+
+### Day 5: August 13, 2019
+#####
+
+**Today's Progress**: Completed the Responsive Web Design Principles section on freeCodeCamp today!
+
+**Thoughts:** I'm feeling really motivated after coding for so many days in a row. Every little bit really adds up, despite life's demands.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
