@@ -54,3 +54,13 @@
 **Thoughts:** I'm feeling really motivated after coding for so many days in a row. Every little bit really adds up, despite life's demands.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+
+### Day 6: August 14, 2019
+#####
+
+**Today's Progress**: Completed the CSS Flexbox and CSS Grid sections on freeCodeCamp. Onto the Responsive Web Design Projects next!
+
+**Thoughts:** I'm excited to use what I've learned to work on the first set of projects! A little each day, every day.
+
+**Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
