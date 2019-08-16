@@ -73,4 +73,4 @@
 **Thoughts:** Even though I've only got an hour per night to work with, I'm so glad to be coding again and I'm pretty excited for what's to come.
 
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
-[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+** ** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
