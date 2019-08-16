@@ -64,3 +64,13 @@
 **Thoughts:** I'm excited to use what I've learned to work on the first set of projects! A little each day, every day.
 
 **Link to work:** [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 7: August 15, 2019
+#####
+
+**Today's Progress**: I'm redoing my first project. I also researched where to host my projects today and looked into redoing my site.
+
+**Thoughts:** Even though I've only got an hour per night to work with, I'm so glad to be coding again and I'm pretty excited for what's to come.
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
