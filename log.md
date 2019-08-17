@@ -86,3 +86,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 9: August 17, 2019
+#####
+
+**Today's Progress**: Today I had a flash of inspiration on who I'm going to make my tribute page be about! I'm pretty excited to wrap this project up. Definitely also going to migrate my website, and that's exciting for its own reasons.
+
+**Thoughts:** I'm maintaining a daily routine and it feels so good!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
