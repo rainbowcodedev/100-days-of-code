@@ -75,3 +75,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 8: August 16, 2019
+#####
+
+**Today's Progress**: More work on my tribute page (the first project in the Responsive Web Design section) and more research into hosting my work (and possibly moving my site...)
+
+**Thoughts:** My brain is melting - but in the exciting kind of way!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
