@@ -97,3 +97,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 10: August 18, 2019
+#####
+
+**Today's Progress**: More work on the tribute page project today.
+
+**Thoughts:** It's certainly a challenge to keep up the routine even when it's the weekend, but I'm doing it!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
