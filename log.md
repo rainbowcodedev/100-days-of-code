@@ -108,3 +108,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 11: August 19, 2019
+#####
+
+**Today's Progress**: I discovered that my original idea for the tribute page was not going to be viable, so I've swapped one idea for the other. Flexibility is key!
+
+**Thoughts:** Sometimes you just have to adapt re: plans and deadlines.
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
