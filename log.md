@@ -119,3 +119,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 12: August 20, 2019
+#####
+
+**Today's Progress**: Today I worked on outlining a new layout for my website. I also worked on the tribute page. It feels good to make any amount of progress. A little bit each day really adds up.
+
+**Thoughts:** I can't imagine how I'll feel when I see "Day 50" in my log. It seems so far away now but so does Day 1 at this point! I hope the keep the daily habit up beyond the 100 day challenge.
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
