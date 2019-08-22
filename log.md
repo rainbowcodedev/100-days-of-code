@@ -130,3 +130,13 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 13: August 20, 2019
+#####
+
+**Today's Progress**: I've learned so much about web hosting over the last few days. I can't wait to launch my website and finalize my projects.
+
+**Thoughts:** More time would be nice! There's so much I want to work on all at once, it's always a matter of attempting to prioritize.
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
