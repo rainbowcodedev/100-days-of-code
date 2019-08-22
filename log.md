@@ -131,7 +131,7 @@
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
 
-### Day 13: August 20, 2019
+### Day 13: August 21, 2019
 #####
 
 **Today's Progress**: I've learned so much about web hosting over the last few days. I can't wait to launch my website and finalize my projects.
