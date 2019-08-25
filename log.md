@@ -162,3 +162,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 16: August 24, 2019
+#####
+
+**Today's Progress**: I spent a lot of time getting organized today. A lot of project work was done.
+
+**Thoughts:** I'm feeling pretty accomplished!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
