@@ -173,3 +173,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 17: August 25, 2019
+#####
+
+**Today's Progress**: I love when breakthoughs happen.
+
+**Thoughts:** I'm already looking forward to the week ahead!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
