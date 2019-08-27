@@ -184,3 +184,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 18: August 26, 2019
+#####
+
+**Today's Progress**: Much more project work today and lots of learning about domain names too!
+
+**Thoughts:** I can't wait to share my work!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
