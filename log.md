@@ -195,3 +195,14 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 19: August 27, 2019
+#####
+
+**Today's Progress**: I spent a lot of time working with hosting and domain names today. I've also considered switching my GitHub and Twitter and such...lots of new ideas brewing!
+
+**Thoughts:** Project work is exciting. Change is exciting. And rebranding myself is exciting!!!
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
