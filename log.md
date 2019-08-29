@@ -206,3 +206,13 @@
 **Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
 #####
 [freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
+
+### Day 20: August 28, 2019
+#####
+**Today's Progress**: Yep, definitely switching domains. Definitely getting new hosting. I'm so ready to reveal the changes I'm working on with my site. I'm also really eager to show my project. There's a lot I'm working on, but I'm really excited for these changes.
+
+**Thoughts:** So ready to be done with the migration.
+
+**Link(s) to work:** [CodePen profile](https://codepen.io/rainbowcodedev)
+#####
+[freeCodeCamp timeline](https://www.freecodecamp.org/rainbowcodedev)
